@@ -25,6 +25,9 @@ Data Link: (https://www.kiva.org/build/data-snapshots)
 (note: Raw Kiva snapshot files are not included in this repository due to data access and redistribution constraints.  
 Only derived and cleaned outputs are generated locally.)
 
+alternatively Kaggle dataset Link: https://www.kaggle.com/datasets/gaborfodor/additional-kiva-snapshot?select=loans.csv 
+
+(note: In this analysis Kiva snapshot data was obtained via a publicly available Kaggle mirror due to intermittent access issues with the official snapshot download.)
 
 ---
 
