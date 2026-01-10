@@ -12,8 +12,7 @@
 - `02_train_models.py` (Logistic Regression + Random Forest)
 - `03_shap_explain.py` (SHAP explainability)
 - `04_impact_dials.py` (Environmental / Social / Circularity scoring)
-- `05_decision_rules.py` (Fund / Review / Reject rules)
-- `streamlit_app.py` (basic visual prototype, opt)
+- `05_decision_rules.py` (Fund / Review / Reject rules + sanity drift check + prototype demo)
 - `Greenvisor_Report.pdf` (submitted dissertation)
   
 ---
